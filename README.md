@@ -17,3 +17,10 @@ Job seekers on JobDirect are well-researched and more informed about the jobs an
 <img width=40% src="Image2.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
 <img width=40% src="Image3.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=40% src="Image4.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ *Web*
+- Figma
+- Webflow
+
+*Language*
+- Python
+- Tika,matplot,regex,fpdf
